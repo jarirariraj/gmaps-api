@@ -1,3 +1,1 @@
-Google Maps API implementations for SWE class, some search feature usage as well
-
-tokens not shown for obvious reasons
+takes a user input radius, searches for location within radius on an already populated mongo db collection, and inserts location into a new collection
